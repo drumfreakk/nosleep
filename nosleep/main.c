@@ -43,17 +43,17 @@ void sendHelp(){
 
 void noSleep(){
 	checkedStat = 1;
-	sprintf(stat, "Preventing Sleep");
+	sprintf(stat, "\033[1;36mPreventing Sleep\033[0m");
 }
 
 void yesSleep(){
 	checkedStat = 1;
-	sprintf(stat, "Allowing Sleep");
+	sprintf(stat, "\033[1;32mAllowing Sleep\033[0m");
 }
 
 void printStatus(int pid){
 	if(running == 0){
-		sprintf(stat, "Not Running");
+		sprintf(stat, "\033[1;31mNot Running\033[0m");
 	} else {
 		kill(pid, 2);
 
