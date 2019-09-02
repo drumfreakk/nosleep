@@ -95,7 +95,7 @@ int main(){
 		sigtype = 15;
 		printf("Shutting the nosleepd daemon down...\n");
 	} else {
-		printf("Unknown command, try one of these:\n");
+		printf("Unknown command, try one of these ");
 		sendHelp();
 	}
 

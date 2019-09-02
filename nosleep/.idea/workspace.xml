@@ -12,11 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c031eee7-48bb-4dc5-8b1b-71fc23a328fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nosleep-cpp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nosleep-cpp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nosleep-cpp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nosleep-cpp/.idea/nosleep-cpp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nosleep-cpp/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmak/nosleep.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmak/nosleepd_handler" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmak/nosleepd_handler.cbp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,6 +74,9 @@
       <workItem from="1566033950975" duration="62000" />
       <workItem from="1566034080960" duration="1364000" />
       <workItem from="1566037224899" duration="587000" />
+      <workItem from="1566049709744" duration="483000" />
+      <workItem from="1566728618770" duration="5000" />
+      <workItem from="1566806585472" duration="1603000" />
     </task>
     <servers />
   </component>
@@ -84,7 +88,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
